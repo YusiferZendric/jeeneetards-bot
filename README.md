@@ -1,5 +1,3 @@
-# Padhle-Bsdkk Bot
-
 ## Overview
 This is a Reddit bot made specifically for the `r/jeeneetards` subreddit. It uses PRAW (Python Reddit API Wrapper) and the GPT-3.5-turbo model from OpenAI to interact with the community. It performs multiple functions like tracking time remaining for JEE and NEET exams, providing motivational quotes, and encouraging users to study. It also allows users to block or unblock the bot.
 
