@@ -15,7 +15,7 @@ import textwrap
 client_id = 'client_id'
 client_secret = 'client_secret'
 client = ImgurClient(client_id, client_secret)
-# global numberofmessages, duration, initialtime
+
 # Constants
 print("hello world")
 OPENAI_API_KEY = "OPENAI_API_KEY"
